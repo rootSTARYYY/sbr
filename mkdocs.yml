@@ -1,0 +1,7 @@
+site_name: My Project Docs
+theme:
+  name: material  # This makes it look professional
+
+nav:
+  - Home: index.md
+  - Guide: guide.md
